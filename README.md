@@ -38,3 +38,4 @@ Questions live in the `QUESTIONS` array at the top of `quiz.js`. `answer` is the
 ```
 
 The welcome screen counts questions from this array, so a new item appears automatically.
+# Quiz-App
